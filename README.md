@@ -1,2 +1,2 @@
-#### This project is for the Devops bootcamp exercise for practicing 
+#### This project is for the Devops bootcamp exercise for  
 #### "Version Control" 
